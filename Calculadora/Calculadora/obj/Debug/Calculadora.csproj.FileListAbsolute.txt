@@ -9,3 +9,14 @@ C:\Users\sammj_msd0lmz\source\repos\Calculadora\Calculadora\obj\Debug\Calculador
 C:\Users\sammj_msd0lmz\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\sammj_msd0lmz\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\sammj_msd0lmz\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\sammj_msd0lmz\OneDrive\Documentos\Visual Studio 2022\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\sammj_msd0lmz\OneDrive\Documentos\Visual Studio 2022\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\sammj_msd0lmz\OneDrive\Documentos\Visual Studio 2022\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\sammj_msd0lmz\OneDrive\Documentos\Visual Studio 2022\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\sammj_msd0lmz\OneDrive\Documentos\Visual Studio 2022\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammj_msd0lmz\OneDrive\Documentos\Visual Studio 2022\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\sammj_msd0lmz\OneDrive\Documentos\Visual Studio 2022\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\sammj_msd0lmz\OneDrive\Documentos\Visual Studio 2022\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\sammj_msd0lmz\OneDrive\Documentos\Visual Studio 2022\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\sammj_msd0lmz\OneDrive\Documentos\Visual Studio 2022\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\sammj_msd0lmz\OneDrive\Documentos\Visual Studio 2022\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

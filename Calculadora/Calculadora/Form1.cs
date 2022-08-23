@@ -46,57 +46,57 @@ namespace Calculadora
 
         private void button25_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = txtResultado.Text + "0";
+            txtResultado.Text += "0";
         }
 
         private void button20_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = txtResultado.Text + "1";
+            txtResultado.Text += "1";
         }
 
         private void button19_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = txtResultado.Text + "2";
+            txtResultado.Text += "2";
         }
 
         private void button18_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = txtResultado.Text + "3";
+            txtResultado.Text += "3";
         }
 
         private void button15_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = txtResultado.Text + "4";
+            txtResultado.Text += "4";
         }
 
         private void button14_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = txtResultado.Text + "5";
+            txtResultado.Text += "5";
         }
 
         private void button13_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = txtResultado.Text + "6";
+            txtResultado.Text += "6";
         }
 
         private void button10_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = txtResultado.Text + "7";
+            txtResultado.Text += "7";
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = txtResultado.Text + "8";
+            txtResultado.Text += "8";
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = txtResultado.Text + "9";
+            txtResultado.Text += "9";
         }
 
         private void button23_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = txtResultado.Text + ".";
+            txtResultado.Text += ".";
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -147,12 +147,7 @@ namespace Calculadora
             valor1 = 0;
             valor2 = 0;
             lblOperacao.Text = "";
-        }
-
-        private void label1_Click_1(object sender, EventArgs e)
-        {
-
-        }
+        }        
 
         private void button16_Click(object sender, EventArgs e)
         {
